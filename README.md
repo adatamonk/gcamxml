@@ -7,7 +7,7 @@ https://www.celsoazevedo.com/files/android/google-camera/dev-arnova8G2/
 2. On your storage create a folder at this path:
 
     - GCam/Configs (Screenshot: https://github.com/H1XYZ/gcamxml/blob/master/!storage_path.jpg)
-    - Put the XML files in that Config folder
+    - Download & put the XML files in that Config folder
 
 3. Go back to the google camera app and import an XML
 
