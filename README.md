@@ -16,3 +16,6 @@ https://www.celsoazevedo.com/files/android/google-camera/dev-arnova8G2/
 
 Done.
 
+Notes:
+ - RAW SENSOR setting has a bug at the moment that causes crashes in selfie mode
+ - RAW10 XMLs are good daily drivers with little to no crashes
