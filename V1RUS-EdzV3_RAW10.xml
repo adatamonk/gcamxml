@@ -54,7 +54,7 @@
     <string name="highlight_f_key">10</string>
     <string name="exp_ns_key">0</string>
     <string name="pref_back_noise_model_as_key">1694300</string>
-    <string name="pref_enable_lowlight_key">0</string>
+    <string name="pref_enable_lowlight_key">1</string>
     <string name="config_key">0</string>
     <string name="pref_camera_hdr_plus_key">on</string>
     <string name="vfp_ae_key">1</string>
