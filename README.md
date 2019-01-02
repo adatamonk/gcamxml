@@ -19,7 +19,7 @@ Config files are stored in the **/GCam/Configs/** directory. This folder needs t
 Done
 
 Export/Save:
-To backup your settings, use the option available in the settings menu. Your configuration will be saved in the default /GCam/Configs/ folder (eg: **/GCam/Configs/config-name.xml**). This file can be used on another GCam version that supports this feature or shared with another users.
+To backup your settings, use the option available in the settings menu. Your configuration will be saved in the default /GCam/Configs/ folder (eg: **/GCam/Configs/config-name.xml**). This file can be used on another GCam version that supports this feature or shared with other users.
 
 Notes:
  - RAW SENSOR setting has a bug at the moment that causes crashes in selfie mode
