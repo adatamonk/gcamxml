@@ -1,6 +1,8 @@
 # gcamxml
 A guide to import custom XML settings into google camera ports
 
+Config files are stored in the /GCam/Configs/ directory. This folder needs to be created manually using a file manager or automatically by exporting your config (use the option in settings menu). Config files use the .xml extension.
+
 1. Get the latest gcam build:
 https://www.celsoazevedo.com/files/android/google-camera/dev-arnova8G2/
 
@@ -13,8 +15,12 @@ https://www.celsoazevedo.com/files/android/google-camera/dev-arnova8G2/
 
     - Double tap on the import area (Screenshot: https://github.com/H1XYZ/gcamxml/blob/master/!xml_toggle_import.jpg)
     - Select the XML of choice
+    - Click Restore
 
-Done.
+Done
+
+Export/Save:
+To backup your settings, use the option available in the settings menu. Your configuration will be saved in the default /GCam/Configs/ folder (eg: /GCam/Configs/config-name.xml). This file can be used on another GCam version that supports this feature or shared with another users.
 
 Notes:
  - RAW SENSOR setting has a bug at the moment that causes crashes in selfie mode
