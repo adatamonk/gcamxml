@@ -8,7 +8,7 @@ Config files are stored in the **/GCam/Configs/** directory. This folder needs t
 2. On your storage create a folder at this path:
 
     - **GCam/Configs** ([See Screenshot](https://github.com/H1XYZ/gcamxml/blob/master/!storage_path.jpg))
-    - Download & put the XML files in that Config folder
+    - [Download](https://github.com/H1XYZ/gcamxml) & put the XML files in that config folder
 
 3. Go back to the google camera app and import an XML
 
