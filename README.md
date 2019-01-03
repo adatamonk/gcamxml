@@ -24,3 +24,4 @@ To backup your settings, use the option available in the settings menu. Your con
 Notes:
  - RAW SENSOR setting has a bug at the moment that causes crashes in selfie mode
  - RAW10 XMLs are good daily drivers with little to no crashes
+ - App crashing? Go to **Settings > Advanced > Fix** | Set **RAW Format** to **RAW10** | Set **Viewfinder Format** to **JPEG**
