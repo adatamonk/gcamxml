@@ -29,8 +29,8 @@ Day Use:
 - V1RUS-Esz4-RAW10 (neutral colors)
 
 Night Sight:
-- V1RUS-NS-R10.xml
-- V1RUS-NS-RS.xml
+- V1RUS-NS-R10
+- V1RUS-NS-RS (less noise)
 
 Notes:
  - RAW SENSOR setting has a bug at the moment that causes crashes in selfie mode
