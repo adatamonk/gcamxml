@@ -21,6 +21,17 @@ Done
 Export/Save:
 To backup your settings, use the option available in the settings menu. Your configuration will be saved in the default /GCam/Configs/ folder (eg: **/GCam/Configs/config-name.xml**). This file can be used on another GCam version that supports this feature or shared with other users.
 
+XML Recommendations:
+
+Day Use:
+- V1RUS-GLib-RAW10 (deeper colors)
+- V1RUS-GLib-RS (no selfies)
+- V1RUS-Esz4-RAW10 (neutral colors)
+
+Night Sight:
+- V1RUS-NS-R10.xml
+- V1RUS-NS-RS.xml
+
 Notes:
  - RAW SENSOR setting has a bug at the moment that causes crashes in selfie mode
  - RAW10 XMLs are good daily drivers with little to no crashes
