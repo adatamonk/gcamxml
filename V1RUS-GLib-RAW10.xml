@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8' standalone='yes' ?>
 <map>
-    <string name="pref_e_hdrplus_key">1</string>
+    <string name="pref_e_hdrplus_key">0</string>
     <string name="bl_back_key">0</string>
     <string name="pref_front_customdenoiseparam_key">0</string>
     <string name="pref_front_noise_model_ao_key">375</string>
@@ -45,7 +45,7 @@
     <string name="slowmo_key">0</string>
     <string name="pref_front_noise_model_as_key">847150</string>
     <string name="pref_front_denoise_revert_1_key">5</string>
-    <string name="pref_exposure_key">+2</string>
+    <string name="pref_exposure_key">0</string>
     <int name="tooltip_impression_count_for_micro_tutorial_dismiss" value="2" />
     <string name="pref_video_quality_back_key">medium</string>
     <string name="iso_up_key">0</string>
