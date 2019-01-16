@@ -24,9 +24,10 @@ To backup your settings, use the option available in the settings menu. Your con
 XML Recommendations:
 
 Day Use:
-- V1RUS-GLib-RAW10 (deeper colors)
-- V1RUS-GLib-RS (no selfies)
-- V1RUS-Esz4-RAW10 (neutral colors)
+- V1RUS-GLib-R10-P3XL (deeper colors, warmer)
+- V1RUS-GLib-R10-PXL (natural colors, colder)
+- V1RUS-GLib-RS-P3XL (no selfies)
+- V1RUS-Esz4-RAW10 (neutral colors, more noise)
 
 Night Sight:
 - V1RUS-NS-R10
