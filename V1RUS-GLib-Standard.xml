@@ -75,7 +75,7 @@
     <string name="pref_enable_dbl_key">0</string>
     <string name="resampling_key">0</string>
     <string name="pref_camera_photosphere_orientation">pano_photosphere</string>
-    <string name="model_f_key">2</string>
+    <string name="model_f_key">1</string>
     <string name="pref_video_fps_p2018_key">FPS_30</string>
     <string name="img_key">256</string>
     <string name="pref_camera_raw_output_key">0</string>
