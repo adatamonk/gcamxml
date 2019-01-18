@@ -23,7 +23,7 @@ To backup your settings, use the option available in the settings menu. Your con
 
 XML Recommendations:
 
-Overall:
+Best Overall:
 - aV1RUS-GLib-3XL (warmer shot)
 - aV1RUS-GLib-XL (colder shot / night sight)
 - aV1RUS-GLib-NS (night sight / low light shots)
@@ -34,7 +34,7 @@ Day Use:
 - V1RUS-GLib-RS-P3XL (no selfies)
 - V1RUS-Esz4-RAW10 (neutral colors, more noise)
 
-Night Sight:
+Night Use:
 - V1RUS-NS-R10
 - V1RUS-NS-RS (less noise)
 
