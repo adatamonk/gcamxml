@@ -24,8 +24,9 @@ To backup your settings, use the option available in the settings menu. Your con
 XML Recommendations:
 
 Overall:
-- V1RUS-GLib-Standard (warmer shot)
-- V1RUS-GLib-Standard-NS (colder shot + night sight)
+- V1RUS-GLib-3XL (warmer shot)
+- V1RUS-GLib-XL (colder shot / night sight)
+- V1RUS-GLib-NS (night sight / low light shots)
 
 Day Use:
 - V1RUS-GLib-R10-P3XL (deeper colors, warmer)
