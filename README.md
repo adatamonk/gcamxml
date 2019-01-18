@@ -3,7 +3,7 @@ A guide to import custom XML settings into google camera ports
 
 Config files are stored in the **/GCam/Configs/** directory. This folder needs to be created manually using a file manager or automatically by exporting your config (use the option in settings menu). Config files use the .xml extension.
 
-1. Get the latest [GCam build](https://www.celsoazevedo.com/files/android/google-camera/dev-arnova8G2/)
+1. Get the latest GCam build: [Arnova](https://www.celsoazevedo.com/files/android/google-camera/dev-arnova8G2/) | [Xtrme](https://www.celsoazevedo.com/files/android/google-camera/dev-xtrme/) | [Latest](https://www.androidfilehost.com/?w=files&flid=288774)
 
 2. On your storage create a folder at this path:
 
@@ -24,9 +24,9 @@ To backup your settings, use the option available in the settings menu. Your con
 XML Recommendations:
 
 Overall:
-- V1RUS-GLib-3XL (warmer shot)
-- V1RUS-GLib-XL (colder shot / night sight)
-- V1RUS-GLib-NS (night sight / low light shots)
+- aV1RUS-GLib-3XL (warmer shot)
+- aV1RUS-GLib-XL (colder shot / night sight)
+- aV1RUS-GLib-NS (night sight / low light shots)
 
 Day Use:
 - V1RUS-GLib-R10-P3XL (deeper colors, warmer)
@@ -46,4 +46,3 @@ Notes:
  - XMLs with "NS" are designed to be used in Night Sight mode (low light) only
  - App crashing? Go to **Settings > Advanced > Fix** | Set **RAW Format** to **RAW10** | Set **Viewfinder Format** to **JPEG**
  - Motion Function not working? Set **RAW Format** to **RAW SENSOR** 
- - Test APKs : https://www.androidfilehost.com/?w=files&flid=288774
