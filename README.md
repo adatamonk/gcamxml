@@ -24,9 +24,9 @@ To backup your settings, use the option available in the settings menu. Your con
 XML Recommendations:
 
 Best Overall:
-- aV1RUS-GLib-3XL (warmer shot)
-- aV1RUS-GLib-XL (colder shot / night sight)
-- aV1RUS-GLib-NS (night sight / low light shots)
+- [aV1RUS-GLib-3XL](https://raw.githubusercontent.com/H1XYZ/gcamxml/master/aV1RUS-GLib-3XL.xml) (warmer shot)
+- [aV1RUS-GLib-XL](https://raw.githubusercontent.com/H1XYZ/gcamxml/master/aV1RUS-GLib-XL.xml) (colder shot / night sight)
+- [aV1RUS-GLib-NS](https://raw.githubusercontent.com/H1XYZ/gcamxml/master/aV1RUS-GLib-NS.xml) (night sight / low light shots)
 
 Day Use:
 - V1RUS-GLib-R10-P3XL (deeper colors, warmer)
