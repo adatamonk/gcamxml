@@ -45,3 +45,4 @@ Notes:
  - XMLs with "NS" are designed to be used in Night Sight mode (low light) only
  - App crashing? Go to **Settings > Advanced > Fix** | Set **RAW Format** to **RAW10** | Set **Viewfinder Format** to **JPEG**
  - Motion Function not working? Set **RAW Format** to **RAW SENSOR** 
+ - Test APKs : https://www.androidfilehost.com/?w=files&flid=288774
