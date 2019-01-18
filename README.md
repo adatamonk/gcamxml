@@ -24,7 +24,7 @@ To backup your settings, use the option available in the settings menu. Your con
 XML Recommendations:
 
 Overall:
-- aV1RUS-GLib-3XL (warmer shot/ yellow tint in night sight)
+- aV1RUS-GLib-3XL (warmer shot)
 - aV1RUS-GLib-XL (colder shot / night sight)
 - aV1RUS-GLib-NS (night sight / low light shots)
 
