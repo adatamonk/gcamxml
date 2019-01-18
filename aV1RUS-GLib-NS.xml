@@ -21,7 +21,7 @@
     <string name="highlight_b_key">10</string>
     <string name="pref_video_quality_front_key">large</string>
     <string name="pref_camera_picturesize_back_key">4000x3000</string>
-    <string name="pref_camera_back_flashmode_key">auto</string>
+    <string name="pref_camera_back_flashmode_key">off</string>
     <string name="pref_disable_zoom_key">1</string>
     <string name="pref_mode_vesper_level">0</string>
     <string name="pref_camera_hdr_key">0</string>
@@ -114,6 +114,7 @@
     <string name="bl_front_key">0</string>
     <string name="shadow_f_key">16</string>
     <string name="model_b_key">3</string>
+    <string name="pref_has_checked_gouda_mode">1</string>
     <string name="pref_camera_advice_settings">1</string>
     <string name="pref_front_denoise_revert_0_key">5</string>
     <string name="pref_af_mode_back">0</string>
