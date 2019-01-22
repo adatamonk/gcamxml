@@ -131,7 +131,7 @@
     <string name="pref_enable_portrait_key">1</string>
     <string name="bl_front_key">0</string>
     <string name="shadow_f_key">16</string>
-    <string name="model_b_key">7</string>
+    <string name="model_b_key">3</string>
     <string name="pref_has_checked_gouda_mode">1</string>
     <string name="pref_camera_advice_settings">1</string>
     <string name="pref_front_denoise_revert_0_key">5</string>
