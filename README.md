@@ -1,7 +1,7 @@
 # gcamxml
 A guide to import custom XML settings into google camera ports
 
-[Telegram XML Share Group](https://web.telegram.org/#/im?p=@gcamxmlshare) 
+[Telegram XML Share Group](https://t.me/gcamxmlshare) 
 
 Config files are stored in the **/GCam/Configs/** directory. This folder needs to be created manually using a file manager or automatically by exporting your config (use the option in settings menu). Config files use the .xml extension.
 
