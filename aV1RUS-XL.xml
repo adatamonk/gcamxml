@@ -6,7 +6,7 @@
     <string name="pref_front_noise_model_ao_key">750</string>
     <string name="pref_autoexposure_key">0</string>
     <string name="libs_key">0</string>
-    <string name="pref_hot_pixel_key">0</string>
+    <string name="pref_hot_pixel_key">2</string>
     <string name="pref_double_tap_key">camera</string>
     <string name="pref_camera_picturesize_front_key">4000x3000</string>
     <string name="key_promote_launch_wear">0</string>
