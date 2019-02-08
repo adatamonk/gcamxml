@@ -17,7 +17,7 @@
     <string name="pref_back_denoise_chroma_1_key">450</string>
     <string name="pref_last_location_recording_state">0</string>
     <string name="pref_has_checked_photobooth_mode">0</string>
-    <string name="highlight_b_key">11</string>
+    <string name="highlight_b_key">12</string>
     <string name="pref_video_quality_front_key">large</string>
     <string name="pref_camera_picturesize_back_key">4000x3000</string>
     <string name="pref_camera_back_flashmode_key">off</string>
@@ -55,7 +55,7 @@
     <string name="pref_video_stabilization_key">1</string>
     <string name="vfp_ae_key">0</string>
     <string name="pref_front_noise_model_bo_key">22500</string>
-    <string name="pref_bitrate_key">40000000</string>
+    <string name="pref_bitrate_key">70000000</string>
     <string name="pref_back_tuningmode_key">1</string>
     <string name="pref_back_customdenoiseparam_key">1</string>
     <string name="pref_camera_video_front_flashmode_key">off</string>
@@ -71,7 +71,7 @@
     <string name="pref_front_denoise_chroma_0_key">500</string>
     <string name="resampling_key">0</string>
     <string name="pref_camera_photosphere_orientation">pano_photosphere</string>
-    <string name="model_f_key">1</string>
+    <string name="model_f_key">2</string>
     <string name="pref_video_fps_p2018_key">FPS_60</string>
     <string name="img_key">256</string>
     <string name="pref_camera_raw_output_key">0</string>
@@ -83,7 +83,7 @@
     <string name="pref_camera_sounds_key">0</string>
     <string name="pref_front_denoise_luma_2_key">100</string>
     <string name="pref_back_customnoisemodel_key">1</string>
-    <string name="shadow_b_key">16</string>
+    <string name="shadow_b_key">17</string>
     <string name="pref_camera_recordlocation_key">0</string>
     <string name="pref_front_noise_model_bs_key">1694300</string>
     <string name="pref_disable_slowmotion_key">1</string>
@@ -109,7 +109,7 @@
     <string name="pref_front_denoise_chroma_1_key">500</string>
     <string name="bl_front_key">0</string>
     <string name="shadow_f_key">16</string>
-    <string name="model_b_key">3</string>
+    <string name="model_b_key">2</string>
     <string name="pref_has_checked_gouda_mode">1</string>
     <string name="pref_camera_advice_settings">1</string>
     <string name="pref_front_denoise_revert_0_key">5</string>
