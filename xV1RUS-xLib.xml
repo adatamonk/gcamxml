@@ -24,7 +24,7 @@
     <string name="highlight_b_key">11</string>
     <string name="pref_camera_picturesize_back_key">4000x3000</string>
     <string name="pref_camera_back_flashmode_key">off</string>
-    <string name="pref_mode_vesper_level">0</string>
+    <string name="pref_mode_vesper_level">1</string>
     <string name="pref_disable_zoom_key">1</string>
     <string name="pref_camera_hdr_key">0</string>
     <string name="pref_has_seen_swiped_to_video">1</string>
