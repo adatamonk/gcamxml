@@ -81,7 +81,7 @@
     <string name="pref_upgrade_version">16</string>
     <string name="pref_front_customnoisemodel_key">0</string>
     <string name="pref_front_denoise_chroma_0_key">500</string>
-    <string name="pref_antibanding_key">0</string>
+    <string name="pref_antibanding_key">1</string>
     <string name="resampling_key">0</string>
     <string name="pref_camera_photosphere_orientation">pano_photosphere</string>
     <string name="model_f_key">1</string>
