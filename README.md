@@ -25,9 +25,9 @@ To backup your settings, use the option available in the settings menu. Your con
 
 XML Recommendations:
 
-- [aV1RUS-3XL](https://raw.githubusercontent.com/H1XYZ/gcamxml/master/aV1RUS-3XL.xml) (warmer shot)
-- [aV1RUS-XL](https://raw.githubusercontent.com/H1XYZ/gcamxml/master/aV1RUS-XL.xml) (colder shot / night sight)
-- [aV1RUS-NS](https://raw.githubusercontent.com/H1XYZ/gcamxml/master/aV1RUS-NS.xml) (night sight / low light shots)
+- [aV1RUS-xLib](https://raw.githubusercontent.com/H1XYZ/gcamxml/master/aV1RUS-xLib.xml) (for Arnova's builds)
+- [xV1RUS-xLib](https://raw.githubusercontent.com/H1XYZ/gcamxml/master/xV1RUS-xLib.xml) (for xtreme's builds)
+- [uV1RUS-xLib](https://raw.githubusercontent.com/H1XYZ/gcamxml/master/uV1RUS-xLib.xml) (for Urnyx05's builds)
 
 Notes:
  - RAW10 has better focus in low light and no front camera crash issues (good for daily use)
