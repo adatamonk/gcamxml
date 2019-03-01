@@ -81,11 +81,12 @@
     <long name="tooltip_latest_impression_timestamp_for_micro_tutorial_dismiss" value="1545951778038" />
     <string name="pref_front_customnoisemodel_key">0</string>
     <string name="pref_front_denoise_chroma_0_key">500</string>
+    <string name="pref_antibanding_key">1</string>
     <string name="pref_camera_photosphere_orientation">pano_photosphere</string>
     <string name="pref_enable_dbl_key">0</string>
     <string name="resampling_key">0</string>
     <string name="model_f_key">1</string>
-    <string name="pref_video_fps_p2018_key">FPS_30</string>
+    <string name="pref_video_fps_p2018_key">FPS_60</string>
     <string name="pref_micro_res2_key">2</string>
     <string name="pref_camera_raw_output_key">0</string>
     <string name="img_key">256</string>
@@ -101,7 +102,7 @@
     <string name="shadow_b_key">15</string>
     <string name="pref_camera_recordlocation_key">0</string>
     <string name="pref_front_noise_model_bs_key">1694300</string>
-    <string name="pref_disable_slowmotion_key">0</string>
+    <string name="pref_disable_slowmotion_key">1</string>
     <string name="pref_camera_raw_output_option_available_key">0</string>
     <string name="pref_front_denoise_revert_2_key">5</string>
     <string name="pref_has_checked_cuttlefish_mode">1</string>
