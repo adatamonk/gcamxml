@@ -33,7 +33,6 @@ Notes:
  - RAW10 has better focus in low light and no front camera crash issues (good for daily use)
  - RAW_SENSOR produces better shots with the Back Camera (no blue tint, better whitebalance) but it will lead to Front Camera Crashes
  - There is now a Auto White-Balance (AWB) Toggle which enables/disables the Pixel 3 AWB AI. I would recommend to enable the toggle (which turns the AWB off). Gives more natural whitebalance
- - Set Back Camera to "Pixel XL" instead of "Pixel 3 XL", it fixes the yellow tint issue
  - XMLs with "NS" are designed to be used in Night Sight mode (low light) only
  - App crashing? Go to **Settings > Advanced > Fix** | Set **RAW Format** to **RAW10** | Set **Viewfinder Format** to **JPEG**
  - Motion Function not working? Set **RAW Format** to **RAW SENSOR** 
