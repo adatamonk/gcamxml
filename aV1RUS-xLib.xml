@@ -4,8 +4,8 @@
     <string name="bl_back_key">0</string>
     <string name="pref_front_customdenoiseparam_key">0</string>
     <string name="pref_front_noise_model_ao_key">750</string>
-    <string name="pref_autoexposure_key">0</string>
-    <string name="libs_key">4</string>
+    <string name="pref_autoexposure_key">1</string>
+    <string name="libs_key">5</string>
     <string name="pref_hot_pixel_key">2</string>
     <string name="pref_double_tap_key">camera</string>
     <string name="pref_camera_picturesize_front_key">4000x3000</string>
@@ -25,6 +25,7 @@
     <string name="pref_video_quality_front_key">large</string>
     <string name="highlight_b_key">11</string>
     <string name="pref_camera_picturesize_back_key">4000x3000</string>
+    <string name="pref_allow_unknown_devices_key">0</string>
     <string name="pref_camera_back_flashmode_key">off</string>
     <string name="pref_mode_vesper_level">0</string>
     <string name="pref_disable_zoom_key">1</string>
