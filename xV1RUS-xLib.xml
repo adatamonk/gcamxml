@@ -46,7 +46,7 @@
     <string name="slowmo_key">0</string>
     <string name="pref_front_noise_model_as_key">1694300</string>
     <string name="pref_front_denoise_revert_1_key">5</string>
-    <string name="pref_exposure_key">0</string>
+    <string name="pref_exposure_key">+1</string>
     <int name="tooltip_impression_count_for_micro_tutorial_dismiss" value="2" />
     <string name="pref_video_quality_back_key">medium</string>
     <string name="iso_up_key">0</string>
