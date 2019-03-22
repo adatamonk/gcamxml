@@ -64,13 +64,13 @@
     <string name="pref_video_quality_back_key">medium</string>
     <string name="iso_up_key">0</string>
     <string name="pref_auxbackcamera_key">0</string>
-    <string name="motion_key">0</string>
+    <string name="motion_key">1</string>
     <long name="tooltip_latest_impression_timestamp_for_cuttlefish_steady_advice" value="1551452771311" />
     <string name="pref_color_transform_key">1</string>
     <string name="google_photos_key">0</string>
     <string name="pref_camera_video_back_flashmode_key">off</string>
     <string name="highlight_f_key">8</string>
-    <string name="pref_force_raw10_front_key">0</string>
+    <string name="pref_force_raw10_front_key">1</string>
     <string name="exp_ns_key">0</string>
     <string name="pref_back_noise_model_as_key">423575</string>
     <string name="pref_enable_lowlight_key">0</string>
