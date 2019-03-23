@@ -25,7 +25,7 @@
     <string name="pref_last_location_recording_state">1</string>
     <string name="pref_has_checked_photobooth_mode">1</string>
     <string name="vfp_motion_key">1</string>
-    <string name="highlight_b_key">9</string>
+    <string name="highlight_b_key">11</string>
     <string name="pref_video_quality_front_key">large</string>
     <string name="pref_camera_picturesize_back_key">4000x3000</string>
     <string name="pref_allow_unknown_devices_key">1</string>
