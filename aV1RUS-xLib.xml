@@ -31,7 +31,7 @@
     <string name="pref_allow_unknown_devices_key">1</string>
     <string name="pref_camera_back_flashmode_key">off</string>
     <string name="pref_disable_zoom_key">1</string>
-    <string name="pref_mode_vesper_level">0</string>
+    <string name="pref_mode_vesper_level">1</string>
     <string name="pref_camera_hdr_key">0</string>
     <string name="pref_has_seen_swiped_to_video">1</string>
     <string name="pref_cuttlefish_front_torch_mode_key">off</string>
